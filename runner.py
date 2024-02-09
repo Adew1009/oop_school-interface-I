@@ -12,3 +12,5 @@ alice = Student("alice", "5", "student", "21234324", "XXXXX")
 print(alice)
 bob = Staff("bob", "5", "teacher", "21234324", "XXXXX")
 print(bob)
+
+# New line

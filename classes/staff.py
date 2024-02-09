@@ -36,3 +36,5 @@ class Staff(Person):
        #uses fancy method of calling parent repr
     
 
+    #insert new
+
